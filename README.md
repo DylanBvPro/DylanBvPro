@@ -1,4 +1,14 @@
-### Hi there 👋
+Computer Science graduate with a degree earned in 2026, specializing in microcontrollers and embedded systems, but my passion lies in programming software. I bring valuable experience from the automation and automotive industry, coupled with a strong background in Information Technology (I.T.).
+
+Now, let's proceed with the customary GitHub introduction.
+
+- 🔭 Currently immersed in game mod scripting.
+- 🌱 Actively learning SQL and honing skills in database design.
+- 👯 Seeking collaborations on open-source projects.
+- 🤔 Seeking assistance and guidance in the realm of machine learning.
+- 💬 Feel free to ask me about Python code or projects.
+- 📫 Reach me at: bokdl@mail.uc.edu
+- ⚡ Fun fact: My journey into programming was sparked by a love for game modding.
 
 <!--
 **DylanBvPro/DylanBvPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
